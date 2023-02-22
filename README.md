@@ -9,4 +9,6 @@ Instructions to run the code:
 
 3. You many need to run the python script preferably in 2.7 version to avoid any discrepencies.
 
+4. For demo/example purpose, a set of files as mentioned in (1) are given. 
+
 
